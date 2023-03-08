@@ -1,4 +1,4 @@
-# Superstore-mock-up-sales
+# Sales analysis on Mock-up Store (Tableau)
 Click [here](https://public.tableau.com/views/Superstore_16770600436860/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) to view dashboard.
 
 [Dataset](https://public.tableau.com/app/sample-data/sample_-_superstore.xls), contains information about products, sales, and profits that you can use to identify key areas of improvement within this fictitious company.
